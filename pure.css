@@ -1,0 +1,431 @@
+.navcontainer{
+    /* background-color: #1de12a; */
+}
+.navSection{
+    /* background-color: #1de12a; */
+}
+.logoBody{
+    /* background-color: #178aef; */
+}
+.logoBlock{
+    /* background-color: #1de12a; */
+}
+.logoBox{
+    /* background-color: #0a3894; */
+}
+.logoBox img{
+    /* background-color: #0a3894; */
+    margin: 1.5rem;
+    height: 7.5rem;
+    cursor: pointer;
+}
+.navLinksBody{
+    /* background-color: aqua; */
+}
+.navlinkBlock{
+    /* background-color: aqua; */
+}
+.navLinkBox{
+    /* background-color: aqua; */
+    margin-top: 2rem;
+}
+.navLinkBox a{
+    /* background-color: aqua; */
+    font-family: var(--ffSecondary);
+    font-size: 1.7rem;
+    padding: 2rem;
+}
+.navLinkBox a:hover{
+    color: #ffffff;
+}
+
+
+/*Hero*/
+
+
+.heroContiner{
+    background-color: #069f6c;
+    background-image: url(./assets/images/hero.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+} 
+.heroSection{
+    background-color: blueviolet;
+} 
+.heroBody{
+    background-color: blueviolet;
+} 
+.heroBlock{
+    background-color: blueviolet;
+} 
+.heroBox{
+    background-color: blueviolet;
+    
+} 
+.heroBox h3{
+    background-color: blueviolet;
+    font-family: var(--ffPrimary);
+    font-size: 5.5rem;
+    margin-bottom: 3rem;
+    color: #ffffff;
+    font-weight: 700;
+} 
+.heroBox p{
+    background-color: blueviolet;
+    font-family: var(--ffPrimary);
+    color: #ffffff;
+} 
+
+
+
+
+
+
+.welcomeContainer{
+    /* background-color: aqua; */
+}
+.welcomeSection{
+    /* background-color: aqua; */
+}
+.welcomeBody{
+    /* background-color: aqua; */
+    margin: 1rem;
+}
+.welcomeImgBlock{
+    /* background-color: #0c5050; */
+}
+.welcomeImgBox{
+    /* background-color: #ff00ea; */
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+.welcomeImgBox img{
+    /* background-color: #ff00ea; */
+    height: 50rem;
+}
+.welcomeContentBox{
+    /* background-color: #fff700; */
+    margin-left: 7rem;
+    flex-direction: column;
+}
+.welcomHeading{
+    /* background-color: #26ff00; */
+    font-family: var(--ffPrimary);
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    text-align: start;
+}
+.welcomeContentBox h3{
+    /* background-color: #06661a; */
+    font-family: var(--ffPrimary);
+    font-size: 3.4rem;
+    margin-bottom: 3rem;
+    width: 70%;
+    font-weight: 400;
+    color: #F60606;
+    text-align: start;
+}
+.welcomeContent{
+    /* background-color: #dc3874; */
+    font-family: var(--ffSecondary);
+    font-size: 1.7rem;
+    color: #3E4359;
+    width: 70%;
+    text-align: start;
+}
+.welcomeContent span{
+    font-size: 3rem;
+}
+
+
+
+
+
+.serviceContainer{
+    /* background-color: #f39393; */
+}
+.serviceSection{
+    /* background-color: #F60606; */
+}
+.serviceHeadingBox h3{
+font-family: var(--ffPrimary);
+font-size: 3.4rem;
+color: #F60606;
+margin-top: 2rem;
+}
+.serviceBody{
+    /* background-color: #f6ee06; */
+    padding: 1rem 10rem 1rem 10rem;
+    width: 100%;
+}
+.serviceCard{
+    background-color: #b1b9b1;
+    margin: 5rem 1rem 5rem 1rem;
+    padding: 2rem 2rem;
+    height: 25rem;
+    border-radius: 5px;
+    /* box-shadow: 10px 20px 1px 1px solid gray; */
+    box-shadow: 0  0px 8px rgba(0, 0, 0, 0.2),0 6px 20px 0.19;
+}
+.cardHeader img{
+    /* background-color: #06f6ee; */
+    height: 8rem;
+}
+.cardBody{
+    /* background-color: #0a06f6; */
+    padding: 1rem;
+    font-family: var(--ffPrimary);
+    font-size: 1.5rem;
+}
+.cardFooter{
+    /* background-color: #f606be; */
+    font-family: var(--ffSecondary);
+    font-size: 1.7rem;
+}
+
+
+
+
+
+
+.quoteContainer{
+    background-color: #F60606;
+    background-color: #069f6c;
+    background-image: url(./assets/images/red.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+.quoteSection{
+    background-color: #F60606;
+}
+.quoteBody{
+    background-color: #F60606;
+}
+.quoteBlock{
+    background-color: #F60606;
+}
+.quoteBox button{
+    background-color: #F60606;
+    padding: 1.5rem 3rem;
+    border-radius: 5px;
+    font-size: 1.7rem;
+    font-family: var(--ffSecondary);
+    color: #ffffff;
+    border: solid #ffffff;
+    cursor: pointer;
+}
+.quoteBox button:hover{
+    color: #F60606;
+    background-color: #ffffff;
+}
+
+
+.reviewBody{
+    background-color: #2a1b1b;
+}
+.reviewBlock{
+    background-color: #ffffff;
+}
+.reviewHeadingBox h3{
+    background-color: #ffffff;
+    font-family: var(--ffPrimary);
+    font-size: 3.4rem;
+    font-weight: 100;
+}
+.reviewIcon{
+    background-color: #ffffff;
+}
+.reviewIconBody{
+    background-color: #ffffff;
+}
+.reviewIconBlock{
+    background-color: #ffffff;
+}
+.reviewicon{
+border:2px solid #F60606;
+padding: 2rem;
+height: 2rem;
+width: 2rem;
+border-radius: 45%;
+margin: 1rem;
+}
+.reviewicon i{
+    background-color: #ffffff;
+font-size: 1.5rem;
+border:2px #F60606;
+}
+.google{
+    background-color: #ffffff;
+}
+.facbook{
+    background-color: #ffffff;
+}
+
+.footerContainer{
+    background-color: #1B202A;
+}
+.footerSection{
+    background-color: #1B202A;
+}
+.footerBody{
+    background-color: #1B202A;
+}
+.footerFormBlock{
+    background-color: #1B202A;
+}
+.footerLogo{
+    background-color: #1B202A;
+}
+.footerForm{
+    background-color: #1B202A;
+}
+
+
+.footerLinkBlock{
+    background-color: #1B202A;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.footerlinks{
+    margin-bottom: 3rem;
+}
+.footerlinks h1{
+    background-color: #1B202A;
+    font-family: var(--ffPrimary);
+    font-size: 2.8rem;
+    color: #F60606;
+    font-weight: 400;
+    margin-bottom: 3rem;
+}
+.footerlinks a{
+    /* background-color: #1356da; */
+    font-family: var(--ffSecondary);
+    font-size: 1.7rem;
+    font-weight: 400;
+    text-align: start;
+    color: #ffffff;
+line-height: 4rem;
+}
+.socialIcon{
+    background-color: #39ca56;
+    border:2px solid #ffffff;
+    padding: 2rem;
+    height: 2rem;
+    width: 2rem;
+    border-radius: 45%;
+    margin: 1rem;
+}
+.icon i{
+    /* background-color: #ffffff; */
+    font-size: 1.5rem;
+    border:2px #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.follow h1{
+    background-color: #1B202A;
+    font-family: var(--ffPrimary);
+    font-size: 2.8rem;
+    color: #F60606;
+    font-weight: 400;
+    margin-bottom: 2rem;
+}
+.socialIcon{
+    background-color: #1B202A;
+}
+.footerDetailsBlock{
+    background-color: #1B202A;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.hiBox{
+    background-color: #1B202A;
+}
+.hiBox h1{
+    background-color: #1B202A;
+    font-family: var(--ffPrimary);
+    font-size: 2.8rem;
+    color: #F60606;
+    font-weight: 400;
+
+}
+.hiBox p{
+    background-color: #1B202A;
+    font-family: var(--ffSecondary);
+    font-size: 1.7rem;
+    font-weight: 400;
+    color: #ffffff;
+}
+.contactBox{
+    background-color: #1B202A;
+}
+.contactBox h1{
+    background-color: #1B202A;
+    font-family: var(--ffPrimary);
+    font-size: 2.8rem;
+    color: #F60606;
+    font-weight: 400;
+
+}
+.contactBox p{
+    background-color: #1B202A;
+    font-family: var(--ffSecondary);
+    font-size: 1.7rem;
+    font-weight: 400;
+    color: #ffffff;
+}
+.location{
+    background-color: #1B202A;
+}
+.location h1{
+    background-color: #1B202A;
+    font-family: var(--ffPrimary);
+    font-size: 2.8rem;
+    color: #F60606;
+    font-weight: 400;
+}
+.location a{
+    background-color: #1B202A;
+    font-family: var(--ffSecondary);
+    font-size: 1.7rem;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+
+.copyRightBody{
+    background-color: #1B202A;
+}
+.copyrightBlock{
+    /* background-color: #3E4359; */
+    padding: 3rem 0rem;
+}
+.copyrightBox p{
+    /* background-color: #3E4359; */
+    font-family: var(--ffSecondary);
+    font-size: 1.7rem;
+    color: #ffffff;
+    font-weight: 400;
+}
+.poweredBlock{
+    /* background-color: #3E4359; */
+}
+.poweredBox{
+    /* background-color: #3E4359; */
+    font-family: var(--ffSecondary);
+    font-size: 1.7rem;
+    color: #ffffff;
+    font-weight: 400;
+}
