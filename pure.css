@@ -532,8 +532,9 @@ margin-top: 2rem;
 }
 
 
-.line hr{
+.copyLine hr{
     border: 0.5px solid #3b3b5b;
+    width: 100%;
 }
 
 

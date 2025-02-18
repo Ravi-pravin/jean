@@ -48,6 +48,13 @@
                             </div>
                         </div>
                     </div>
+                    <script>
+                        const burger = document.querySelector('.burger')
+                        const menuList = document.querySelector('nav ul')
+                        burger.addEventListener('click',()=> {
+                            menuList.classList.toggle('showmenu')
+                        })
+                    </script>
                 </nav>
                 <div class="heroBody grid-1">
                     <div class="heroBlock dflex">
@@ -368,8 +375,8 @@
                     </div>
                 </div>
 
-                <div class="line">
-                    <hr>
+                <div class="copyLine">
+                <hr>
                 </div>
 
                 <div class="copyRightBody grid-2">
