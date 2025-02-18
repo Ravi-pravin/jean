@@ -28,6 +28,7 @@
 .navLinkBox{
     /* background-color: aqua; */
     margin-top: 2rem;
+    position: relative;
 }
 .home{
     color: #ffffff;
@@ -41,6 +42,26 @@
 .navLinkBox a:hover{
     color: #ffffff;
 }
+.burger{
+    border: 1px solid white;
+    height: 4rem;
+    width: 4rem;
+    position: absolute;
+    top: -1rem;
+    right: -5rem;
+    display: none;
+    cursor: pointer;
+    height: fit-content;
+    width: fit-content;
+}
+.Burger hr{
+    border: 2px solid white;
+    margin: 7px;
+    width: 4rem;
+}
+
+
+
 
 
 /*Hero*/

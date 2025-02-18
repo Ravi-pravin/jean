@@ -213,13 +213,18 @@ footer {
         margin: 1.5rem;
         height: 9rem;
     }
-
-
+.navLinkBox a{
+    display: none;
+}
+.burger{
+    display: grid;
+}
     .heroBox h3{
         font-size: 4rem;
     } 
     .heroBox{
         /* width: 44.55rem; */
+        padding: 20rem 0rem 6rem 0rem;
     }
     .heroBox p{
         font-size: 1.4rem;
