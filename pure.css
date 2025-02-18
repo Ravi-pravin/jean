@@ -138,6 +138,9 @@
     color: #3E4359;
     width: 100%;
 }
+.welcomeContent::first-letter{
+initial-letter: 2;
+}
 .welcomeContent span{
     font-size: 3rem;
 }
@@ -163,18 +166,14 @@ margin-top: 2rem;
     padding: 1rem 10rem 1rem 10rem;
     width: 100%;
 }
-.serviceBox4{
-    box-shadow: 10px 20px 1px 1px solid rgb(206, 9, 9);
-    /* box-shadow: 0  0px 8px rgba(212, 3, 3, 0.833),0 6px 20px 0.19; */
-}
 .serviceCard{
-    background-color: #b1b9b1;
+    /* background-color: #b1b9b1; */
     margin: 5rem 1rem 5rem 1rem;
     padding: 2rem 2rem;
     height: 25rem;
     border-radius: 5px;
-    box-shadow: 10px 20px 1px 1px solid rgb(206, 9, 9);
-    /* box-shadow: 0  0px 8px rgba(212, 3, 3, 0.833),0 6px 20px 0.19; */
+    box-shadow: 0 4px 8px 0 rgba(0,0, 0, 0.2);
+
 }
 .cardHeader img{
     /* background-color: #06f6ee; */
