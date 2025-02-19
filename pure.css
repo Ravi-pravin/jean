@@ -293,12 +293,13 @@ margin-top: 2rem;
 .reviewicon:hover{
     border:2px solid #F60606;
     background-color: #F60606;
-    color: #ffffff;
+    
 }
 .reviewicon i{
     /* background-color: #ffffff; */
     font-size: 1.5rem;
     border:2px #F60606;
+    color: #ffffff;
 }
 .google{
     /* background-color: #ffffff; */
