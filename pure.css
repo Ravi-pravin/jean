@@ -74,6 +74,7 @@
     /* background-color: blueviolet; */
     background-image: url(./assets/images/heroblue.jpg);
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -363,6 +364,9 @@ margin-top: 2rem;
     border: 0.5px solid #ec6565;
     cursor: pointer;
     letter-spacing: 1px;
+}
+.footerForm button:hover{
+    background-color: #ff0505;
 }
 
 

@@ -365,6 +365,9 @@ margin-bottom: 3rem;
         align-items: center;
         justify-content: center;
     }
+    .heroBox{
+        padding: 0rem 0rem 6rem 0rem;
+    } 
 
     .welcomeBlock{
         display: flex;
