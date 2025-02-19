@@ -248,6 +248,10 @@ footer {
         text-align: center;
         margin-right: 5rem;
     }
+    .welcomeContent{
+        padding-bottom: 5rem;
+        width: 100%;
+    }
     .quoteBox button{
         margin-top: 10rem;
         margin-bottom: 10rem;
@@ -262,7 +266,8 @@ footer {
         margin-right: 2rem;
     }
     .serviceHeadingBox h3{
-        margin-bottom: 3rem;
+        margin-top: 6rem;
+        margin-bottom: 6rem;
     }
     .serviceBox{
         /* background-color: #000000; */
