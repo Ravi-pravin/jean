@@ -149,7 +149,6 @@
     font-family: var(--ffPrimary);
     font-size: 3.4rem;
     margin-bottom: 3rem;
-    width: 100%;
     font-weight: 400;
     color: #F60606;
 }
@@ -158,7 +157,6 @@
     font-family: var(--ffSecondary);
     font-size: 1.7rem;
     color: #3E4359;
-    width: 100%;
 }
 .welcomeContent::first-letter{
     initial-letter: 2;
