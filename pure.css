@@ -289,24 +289,19 @@ margin-top: 2rem;
     border-radius: 45%;
     margin: 1rem;
     margin-bottom: 10rem;
+    color: #F60606;
 }
 .reviewicon:hover{
     border:2px solid #F60606;
     background-color: #F60606;
-    
+    color: #ffffff;
 }
 .reviewicon i{
     /* background-color: #ffffff; */
     font-size: 1.5rem;
     border:2px #F60606;
-    color: #ffffff;
 }
-.google{
-    /* background-color: #ffffff; */
-}
-.facbook{
-    /* background-color: #ffffff; */
-}
+
 
 
 
