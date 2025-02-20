@@ -210,9 +210,15 @@ footer {
     }
 
     .logoBox img{
-        margin: 1.5rem;
-        height: 9rem;
+        height: 5rem;
+        padding-bottom: 0rem;
     }
+    .navlinkBlock{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
 .navLinkBox a{
     display: none;
 }
@@ -226,8 +232,7 @@ footer {
         font-size: 4rem;
     } 
     .heroBox{
-        /* width: 44.55rem; */
-        padding: 25rem 0rem 6rem 0rem;
+        padding: 19rem 0rem 10rem 0rem;
     }
     .heroBox p{
         font-size: 1.4rem;
@@ -245,6 +250,11 @@ footer {
         display: flex; 
         align-items: center;
         justify-content: center;
+    }
+    .welcomeImgBox img{
+        /* background-color: #ff00ea; */
+        height: 49rem;
+        padding-right: 4rem;
     }
 
     .welcomeContentBox{

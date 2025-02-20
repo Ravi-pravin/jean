@@ -15,20 +15,21 @@
 }
 .logoBox img{
     /* background-color: #0a3894; */
-    margin: 1.5rem;
-    height: 7.5rem;
+    height: 12.5rem;
+    padding-top: 2rem;
     cursor: pointer;
+    padding-bottom: 3rem;
 }
 .navLinksBody{
     /* background-color: aqua; */
 }
 .navlinkBlock{
-    /* background-color: aqua; */
+    /* background-color: rgb(229, 255, 0); */
 }
 .navLinkBox{
-    /* background-color: aqua; */
+    /* background-color: rgb(255, 0, 166); */
     margin-top: 2rem;
-    position: relative;
+    /* position: relative; */
 }
 .home{
     color: #ffffff;
@@ -44,9 +45,9 @@
 }
 .burger{
     background-color: #D60A0E;
-    position: absolute;
+    /* position: absolute;
     top: -1rem;
-    right: -5rem;
+    right: -10rem; */
     display: none;
     cursor: pointer;
     padding: 1rem 1rem;
@@ -116,16 +117,16 @@
 }
 .welcomeBody{
     /* background-color: aqua; */
-    margin: 1rem;
+    /* margin: 1rem; */
 }
 .welcomeImgBlock{
-    /* background-color: #0c5050; */
+    background-color: #0c5050;
 }
 .welcomeImgBox{
-    /* background-color: #ff00ea; */
+    /* background-color: #33ff00; */
     display: flex;
     align-items: center;
-    justify-content: end;
+    justify-content: center;
 }
 .welcomeImgBox img{
     /* background-color: #ff00ea; */
@@ -412,7 +413,7 @@
     width: 100%;
     display: flex;
     align-items: center;
-    justify-items: start;
+    justify-items: center;
 }
 .socialIcon{
     /* background-color: #39ca56; */
@@ -421,7 +422,7 @@
     height: 1rem;
     width: 1rem;
     border-radius: 45%;
-    margin: 1rem;
+    margin-right: 1.5rem;
     display: flex;
     align-items: center;   
     justify-content: center;
