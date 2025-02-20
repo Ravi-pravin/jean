@@ -414,35 +414,35 @@ footer {
         padding: 0rem 0rem 6rem 0rem;
     } 
 
-    .welcomeBlock{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        margin-top: 15rem;
+    .welcomeImgBox{
+        padding-left: 0rem;
     }
-    
     .welcomeImgBox img{
-        height: auto;
-        width: 75rem;
+        height: 45rem;
     }
-
-
-    .welcomeBody{
-        display: grid;
-        grid-template-columns: 1fr;
+    .welcomeContentBlock{
+        padding-top: 10rem;
         display: flex;
-        flex-direction: column;
         align-items: center;
         justify-content: center;
     }
     .welcomeContentBox{
+        /* background-color: #fff700; */
+        padding-left: 0rem;
         display: flex;
         align-items: center;
         justify-content: center;
+    }
+    .welcomHeading{
+        /* background-color: #26ff00; */
+        font-family: var(--ffPrimary);
+        font-size: 1.5rem;
+        width: 100%;
+        padding-bottom: 2rem;
         text-align: center;
-        margin-top: 10rem;
-        margin-bottom: 10rem;
-        margin-left: 0rem;
+    }
+    .welcomeContent{
+        text-align: center;
     }
 
 
